@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLk5aVa15zkNT17JzzZ5yQHwU8/lIwBwydCHfHaAgcCxnVo/ZeCx3ZxXVBKinxOB4VTp65uaveiram0sXUJVrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Velkata\\source\\repos\\Inensia Technical Tasks\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Velkata\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

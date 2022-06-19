@@ -1,0 +1,17 @@
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\bin\Debug\net5.0\Task1.exe
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\bin\Debug\net5.0\Task1.deps.json
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\bin\Debug\net5.0\Task1.dll
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\bin\Debug\net5.0\ref\Task1.dll
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\bin\Debug\net5.0\Task1.pdb
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\Task1.dll
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\ref\Task1.dll
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\Task1.pdb
+C:\Users\Velkata\source\repos\Inensia Technical Tasks\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
